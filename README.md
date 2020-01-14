@@ -20,7 +20,7 @@ Uma ferramenta simples que depois de fazer um scraping na internet posta o conte
 
 [*] primeiro clone o repositório e instale as dependências digitando o seguinte comando:
 
-pip install -r requeriments.txt
+> pip install -r requeriments.txt
 
 
 # configurações
@@ -42,7 +42,7 @@ pip install -r requeriments.txt
 
 [*] por fim digite o comando:
 
-python blogger.py 
+> python blogger.py 
 
 
 # postagem 
