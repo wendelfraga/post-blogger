@@ -27,12 +27,12 @@ Uma ferramenta simples que depois de fazer um scraping na internet posta o conte
 
 [*] edite o script (me notifique caso alterar ou distribuir esse programa).
 
-[*] coloque suas credenciais do google no arquivo "client_secrets.json":
+[*] coloque suas credenciais do google no arquivo > "client_secrets.json":
 
 ![Alt Text](https://github.com/wendelfraga/post-blogger/blob/master/tutorial/googlecreds.PNG)
 
 
-[*] coloque sua api do wordtracker na seguinte linha do arquivo "postagem.py":
+[*] coloque sua api do wordtracker na seguinte linha do arquivo > "postagem.py":
 
 ![Alt Text](https://github.com/wendelfraga/post-blogger/blob/master/tutorial/wordtracker.PNG)
 
