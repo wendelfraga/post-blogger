@@ -1,15 +1,19 @@
 # post-blogger
 
-[*] Um robô simples que faz postagens de jogos na plataforma blogger (webscraping e api do google).
+Um robô simples que faz postagens de jogos na plataforma blogger (webscraping e api do google).
 
 # detalhes do autor 
-[*] Nome: Wendel Fraga
-[*] Telegram: @desmondelite
+
+[*] Nome: Wendel Fraga.
+
+[*] Telegram: @desmondelite.
 
 
 # descrição
-[*] uma ferramenta simples que depois de fazer um scraping na internet posta o resultado no meu blog de jogos.
+Uma ferramenta simples que depois de fazer um scraping na internet posta o conteúdo na plataforma blogger.
+
 [*] roda em linux e windows. 
+
 [*] programado em python3.
 
 # instalando dependências 
@@ -45,7 +49,7 @@ python blogger.py
 
 Esse script pode ser alterado para fazer postagens dos mais diversos assuntos além de jogos, basta modifica-lo para fazer scraping
 em outros websites que servirão como um banco de dados. Esta versão do script programada por min usa o site [1337](https://1337x.to)
-como banco de dados para pesquisar os liks de download dos jogos. Não apoio nenhuma prática de pirataria, esse script foi desenvolvido
+como banco de dados para pesquisar os links de download dos jogos. Não apoio nenhuma prática de pirataria, esse script foi desenvolvido
 apenas para adiquirir conhecimento.
 
 [*] ao executar o script ele abrirá uma janela no navegador solicitando permissão para postar usando a sua conta:
