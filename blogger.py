@@ -134,13 +134,19 @@ def main(argv):
 		print("[-] Programa encerrado!")
 		print("[*] Limpando arquivos.....")
 		time.sleep(3)
-		os.remove("imagem/imgurl.txt")	
-		os.remove("video/vidurl.txt")
-		os.remove("Imagens Baixadas")
-
-	except FileNotFoundError as e:
-		print("\n\n")
-		print("[*] Sem arquivos para limpar!", e)
+		try:
+			os.remove("imagem/imgurl.txt")	
+			os.remove("video/vidurl.txt")
+			
+			try:
+				os.remove("Imagens Baixadas")
+			except:
+				print("\n\n")
+				print("[-] Execute como administrador para excluir a pasta *Imagens Baixadas*!")
+			
+		except FileNotFoundError:
+			print("\n\n")
+			print("[*] Sem arquivos para limpar!")	
 				
 
 					
