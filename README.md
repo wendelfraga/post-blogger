@@ -4,7 +4,7 @@ Um robô simples que faz postagens de jogos na plataforma blogger (webscraping e
 
 # detalhes do autor 
 
-[*] Nome: Wendel Fraga.
+`$ Nome: Wendel Fraga.`
 
 [*] Telegram: @desmondelite.
 
