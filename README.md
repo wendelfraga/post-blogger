@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1178921/screenshots/6025265/mochawalk-shot_261.png" width="470" height="150">
+  <img src="https://cdn.dribbble.com/users/1178921/screenshots/6025265/mochawalk-shot_261.png" width="470" height="140">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
