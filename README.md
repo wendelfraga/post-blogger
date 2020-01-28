@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="https://p7.hiclipart.com/preview/769/375/649/chocolate-chip-cookie-biscuits-christmas-cookie-gingerbread-man-cookies-logo.jpg" width="470" height="150">
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
+<p align="center">
+  <a href="https://github.com/wendelfraga">
+    <img src="https://img.shields.io/github/followers/wendelfraga?label=Follow&style=social">
+  </a>
+  <a href="https://github.com/wendelfraga/post-blogger">
+    <img src="https://img.shields.io/github/stars/wendelfraga/post-blogger?style=social">
+  </a>
+</p>
+<p align="center">
+  Cookie post-blogger
+</p>
+<p align="center">
+  dê uma  ⭐ estrelinha ⭐
+</p>
+
+
 # post-blogger
 
 Um robô simples que faz postagens de jogos na plataforma blogger (webscraping e api do google).
